@@ -14,3 +14,44 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<h1 align="center">Hi 👋, I'm Dipankar Prakash</h1>
+<h3 align="center">A passionate web developer from India</h3>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dipankar-prakash&label=Profile%20views&color=0e75b6&style=flat" alt="profile views"/>
+</p>
+
+---
+
+### 🚀 Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dipankar-prakash&theme=onedark&row=1&column=7" />
+</p>
+
+---
+
+### 📫 How to reach me  
+- Email: **prakashdipankar2003@gmail.com**
+- LinkedIn: [Click here](https://www.linkedin.com/in/dipankar-prakash-b900a6359)
+
+---
+
+## 🔧 Languages and Tools:
+<p align="left">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dipankar-prakash&show_icons=true&theme=tokyonight"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dipankar-prakash&layout=compact&theme=tokyonight"/>
+</p>
+
